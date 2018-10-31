@@ -1,6 +1,9 @@
 # spring-react-boilerplate
 
-[![CircleCI](https://circleci.com/gh/pram/spring-react-boilerplate.svg?style=svg)](https://circleci.com/gh/pram/spring-react-boilerplate) [![Coverage Status](https://coveralls.io/repos/github/pram/spring-react-boilerplate/badge.svg?branch=master)](https://coveralls.io/github/pram/spring-react-boilerplate?branch=master)
+[![CircleCI](https://circleci.com/gh/pram/spring-react-boilerplate.svg?style=svg)](https://circleci.com/gh/pram/spring-react-boilerplate)
+ [![Coverage Status](https://coveralls.io/repos/github/pram/spring-react-boilerplate/badge.svg?branch=master)]
+ (https://coveralls.io/github/pram/spring-react-boilerplate?branch=master)
+https://github.com/pram/spring-react-boilerplate
 
 Boilerplate application to demonstrate how to wire up Spring, JWT Authentication, React, Redux and Websockets.
 
@@ -9,7 +12,7 @@ Boilerplate application to demonstrate how to wire up Spring, JWT Authentication
 
 To build and run locally
 
-    mvn spring-boot:run
+    mvn spring-boot:run   et pas seulement la classe Spring Boot
     
 You can now access the app on [port 8080](http://localhost:8080)
 
